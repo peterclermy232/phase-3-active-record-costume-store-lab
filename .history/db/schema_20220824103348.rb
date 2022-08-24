@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_08_24_123927) do
+ActiveRecord::Schema.define(version: 2022_07_16_123927) do
     create_table "costume_stores", force: :cascade do |t|
         t.string "name"
         t.string "location"
